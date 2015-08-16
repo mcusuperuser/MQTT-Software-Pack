@@ -1,0 +1,7 @@
+Files/*
+library-build/Listings/*
+library-build/Objects/*
+library-build/*.c
+library-build/*.h
+temp/*
+mcusuperuser.MQTT.*.pack
