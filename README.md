@@ -21,4 +21,4 @@ See https://www.eclipse.org/paho/clients/c/embedded/
 
 ## Reporting bugs
 
-Please report bugs in the GitHub project or to packs@mcusuperuser.com
+Please report bugs in the GitHub project.
